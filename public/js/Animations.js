@@ -58,6 +58,11 @@ if ('scrollRestoration' in history) {
    history.scrollRestoration = 'auto';
 }
 
+// Close navigation when any link is clicked
+$('a').click(function() {
+   $('[data-navigation-status]').attr('data-navigation-status', 'not-active');
+});
+
 // Initialize page on document ready
 $(document).ready(function () {
    initSmoothScroll();
