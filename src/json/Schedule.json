@@ -49,8 +49,8 @@
         "date": "May 6",
         "timeSlot": "8:30 - 9:30",
         "room": "Entrance Lobby",
-        "title": "Registration & Check-In",
-        "content": "Badge Pickup & Breakfast",
+        "title": "Breakfast and Registration",
+        "content": "Check-In and Badge Pickup",
         "speakers": []
       },
       {
@@ -247,10 +247,10 @@
       },
       {
         "date": "May 7",
-        "timeSlot": "9:00 - 9:30",
+        "timeSlot": "8:30 - 9:30",
         "room": "Entrance Lobby",
-        "title": "Registration & Check-In",
-        "content": "Badge Pickup & Breakfast",
+        "title": "Breakfast and Registration",
+        "content": "Check-In and Badge Pickup",
         "speakers": []
       },
       {
@@ -429,8 +429,8 @@
         "date": "May 6",
         "timeSlot": "8:30 - 9:30",
         "room": "Entrance Lobby",
-        "title": "Registration & Check-In",
-        "content": "Badge Pickup & Breakfast",
+        "title": "Breakfast and Registration",
+        "content": "Check-In and Badge Pickup",
         "speakers": []
       },
       {
@@ -612,10 +612,10 @@
       },
       {
         "date": "May 7",
-        "timeSlot": "9:00 - 9:30",
+        "timeSlot": "8:30 - 9:30",
         "room": "Entrance Lobby",
-        "title": "Registration & Check-In",
-        "content": "Badge Pickup & Breakfast",
+        "title": "Breakfast and Registration",
+        "content": "Check-In and Badge Pickup",
         "speakers": []
       },
       {
@@ -794,8 +794,8 @@
         "date": "May 6",
         "timeSlot": "8:30 - 9:30",
         "room": "Entrance Lobby",
-        "title": "Registration & Check-In",
-        "content": "Badge Pickup & Breakfast",
+        "title": "Breakfast and Registration",
+        "content": "Check-In and Badge Pickup",
         "speakers": []
       },
       {
@@ -992,10 +992,10 @@
       },
       {
         "date": "May 7",
-        "timeSlot": "9:00 - 9:30",
+        "timeSlot": "8:30 - 9:30",
         "room": "Entrance Lobby",
-        "title": "Registration & Check-In",
-        "content": "Badge Pickup & Breakfast",
+        "title": "Breakfast and Registration",
+        "content": "Check-In and Badge Pickup",
         "speakers": []
       },
       {
@@ -1174,8 +1174,8 @@
         "date": "May 6",
         "timeSlot": "8:30 - 9:30",
         "room": "Entrance Lobby",
-        "title": "Registration & Check-In",
-        "content": "Badge Pickup & Breakfast",
+        "title": "Breakfast and Registration",
+        "content": "Check-In and Badge Pickup",
         "speakers": []
       },
       {
@@ -1357,10 +1357,10 @@
       },
       {
         "date": "May 7",
-        "timeSlot": "9:00 - 9:30",
+        "timeSlot": "8:30 - 9:30",
         "room": "Entrance Lobby",
-        "title": "Registration & Check-In",
-        "content": "Badge Pickup & Breakfast",
+        "title": "Breakfast and Registration",
+        "content": "Check-In and Badge Pickup",
         "speakers": []
       },
       {
@@ -1535,6 +1535,52 @@
       }
     ],
     "PyTorch Day France": [
+      {
+        "date": "May 6",
+        "timeSlot": "8:30 - 9:30",
+        "room": "Entrance Lobby",
+        "title": "Breakfast and Registration",
+        "content": "Check-In and Badge Pickup",
+        "speakers": []
+      },
+      {
+        "date": "May 6",
+        "timeSlot": "9:30 - 10:00",
+        "room": "Master Stage",
+        "title": "Keynote",
+        "content": "GOSIM Keynote",
+        "speakers": []
+      },
+      {
+        "date": "May 6",
+        "timeSlot": "10:00 - 10:30",
+        "title": "Morning Coffee",
+        "content": "Coffee & hors d’oeuvres",
+        "speakers": []
+      },
+      {
+        "date": "May 6",
+        "timeSlot": "12:00 - 14:00",
+        "room": "Open Platform",
+        "title": "Lunch Break",
+        "content": "Food & drinks",
+        "speakers": []
+      },
+      {
+        "date": "May 6",
+        "timeSlot": "15:20 - 15:40",
+        "title": "Afternoon Coffee",
+        "content": "Coffee & hors d’oeuvres",
+        "speakers": []
+      },
+      {
+        "date": "May 7",
+        "timeSlot": "8:30 - 9:30",
+        "room": "Entrance Lobby",
+        "title": "Breakfast and Registration",
+        "content": "Check-In and Badge Pickup",
+        "speakers": []
+      },
       {
         "date": "May 7",
         "timeSlot": "9:30 - 10:00",
