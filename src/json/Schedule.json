@@ -634,7 +634,7 @@
         "date": "May 6",
         "timeSlot": "11:10 - 11:50",
         "title": "CangjieMagic : New Choices for Developers in the Age of Large Models",
-        "content": "With the surge in popularity of various AI large models, the trend of agent-oriented development in large model applications has become increasingly evident. Agents are gradually becoming a core element in the development of large model applications. This topic shares an AI large model Agent development framework based on the Cangjie programming language. This framework supports Agent-oriented programming, providing developers with an efficient Agent DSL for Agent programming. Its main features include: support for the MCP protocol to facilitate mutual invocation between Agents and tools, support for modular invocation, and support for intelligent task planning. It enhances the efficiency of developers in creating smart HarmonyOS applications, delivers an exceptional development experience, and explores new paradigms for future large model application development",
+        "content": "With the surge in popularity of various AI large models, the trend of agent-oriented development in large model applications has become increasingly evident. Agents are gradually becoming a core element in the development of large model applications. This topic shares an AI large model Agent development framework based on the Cangjie programming language. This framework supports Agent-oriented programming, providing developers with an efficient Agent DSL for Agent programming. Its main features include: support for the MCP protocol to facilitate mutual invocation between Agents and tools, support for modular invocation, and support for intelligent task planning. It enhances the efficiency of developers in creating smart HarmonyOS applications, delivers an exceptional development experience, and explores new paradigms for future large model application development.",
         "speakers": [
           {
             "id": "dongjie-chen",
@@ -1267,8 +1267,8 @@
         "content": "This presentation looks at effective strategies for using Common Crawl's web archive in large-scale research applications, specifically for AI and other ML applications. We will discuss practical approaches to processing and filtering Common Crawl’s datasets, with focus on how to overcome computational challenges and optimise data pipelines. We will also discuss some of the challenges that users might encounter related to the multilingual and heterogeneous nature of Common Crawl’s data. The talk will cover best practices for data filtering, pre-processing, and storage, to ensure the quality and relevance of extracted information for research tasks. Additionally, we will briefly discuss the ranking mechanism used to determine whether a URL is crawled, and demonstrate how to use the Web Graph as a framework for further research.",
         "speakers": [
           {
-            "id": "pedro-ortis",
-            "name": "Pedro Ortis",
+            "id": "pedro-ortis-suarez",
+            "name": "Pedro Ortis Suarez",
             "tags": ["pytorch"],
             "roleOrg": "Senior Research Scientist at Common Crawl",
             "image": "pedro-ortis-suarez.jpg"
@@ -1429,15 +1429,15 @@
       {
         "date": "May 6",
         "timeSlot": "12:45 -13:00",
-        "title": "SpeakLeash",
-        "content": "The Bielik Project delivers not only a family of open-source language models (1.5B, 4.5B, and 11B parameters) but also a complete tooling ecosystem designed to empower others to train, fine-tune, and evaluate LLMs with ease. One of the project’s core features is its end-to-end toolchain—spanning datasets, benchmarking, training, and fine-tuning frameworks—which enables any research group or organization to build their own models through base model fine-tuning or continuous pretraining.",
+        "title": "The Rise of Bielik.AI",
+        "content": "Community powered effort to achieve independent Polish AI. The Bielik Project delivers not only a family of open-source language models (1.5B, 4.5B, and 11B parameters) but also a complete tooling ecosystem designed to empower others to train, fine-tune, and evaluate LLMs with ease. One of the project’s core features is its end-to-end toolchain—spanning datasets, benchmarking, training, and fine-tuning frameworks—which enables any research group or organization to build their own models through base model fine-tuning or continuous pretraining.",
         "speakers": [
           {
-            "id": "michal-domaski",
-            "name": "Michał Domański",
+            "id": "pawel-kiszczak",
+            "name": "Paweł Kiszczak",
             "tags": ["spotlight-ai"],
-            "roleOrg": "Bielik.ai",
-            "image": "generic-profile.png"
+            "roleOrg": "Data Scientist at Bielik.ai",
+            "image": "pawel-kiszczak.jpg"
           }
         ]
       },
@@ -1564,15 +1564,15 @@
       {
         "date": "May 7",
         "timeSlot": "13:30 -13:45",
-        "title": "MoFA",
-        "content": "MoFA (Modular Framework for Agent) is a software framework designed to build AI agents through a composition-based approach. MoFA stands out in several key ways: Empowering Ordinary People to Do Extraordinary Things: AI should not be the exclusive domain of elites and large corporations. MoFA empowers everyone to harness and develop AI, turning the impossible into possible and enabling ordinary people to create extraordinary outcomes. A Fundamental Approach of Composition: Inspired by the Unix philosophy, MoFA centers \"composition\" as its core principle. You can build agents, connect them, and integrate tools like building blocks, making AI simple, flexible, and powerful. The Unified System of Everything Agent: In MoFA, an agent is not just a large language model—it can be code, scripts, APIs, or even MoFA itself. MoFA is more than a framework; it is an entire agent ecosystem, where the agent is the application of the AI era. Data Flow Over Workflow in Architecture: While most agent frameworks rely on complex and stateful workflows, MoFA adopts a data-driven dataflow approach. This design allows agents to be easily combined, disassembled, and reused, offering greater flexibility and efficiency, relatively more friendly to debug, especially when there are hundreds of agents interacting with each other in a system.",
+        "title": "MoFA, Everything Agent",
+        "content": "MoFA (Modular Framework for Agent) is a software framework designed to build AI agents through a composition-based approach.\r\n\r\n MoFA stands out in several key ways: \r\n\r\n Empowering Ordinary People to Do Extraordinary Things: AI should not be the exclusive domain of elites and large corporations. MoFA empowers everyone to harness and develop AI, turning the impossible into possible and enabling ordinary people to create extraordinary outcomes. \r\n\r\n A Fundamental Approach of Composition: Inspired by the Unix philosophy, MoFA centers \"composition\" as its core principle. You can build agents, connect them, and integrate tools like building blocks, making AI simple, flexible, and powerful. The Unified System of Everything Agent: In MoFA, an agent is not just a large language model—it can be code, scripts, APIs, or even MoFA itself. MoFA is more than a framework; it is an entire agent ecosystem, where the agent is the application of the AI era.\r\n\r\n Data Flow Over Workflow in Architecture: While most agent frameworks rely on complex and stateful workflows, MoFA adopts a data-driven dataflow approach. This design allows agents to be easily combined, disassembled, and reused, offering greater flexibility and efficiency, relatively more friendly to debug, especially when there are hundreds of agents interacting with each other in a system.",
         "speakers": [
           {
             "id": "zonghuan-wu",
             "name": "Zonghuan Wu",
             "tags": ["spotlight-ai"],
-            "roleOrg": "Relevant Study",
-            "image": "generic-profile.png"
+            "roleOrg": "Founder at Relevant Study LLC",
+            "image": "zonghuan-wu.jpeg"
           }
         ]
       }

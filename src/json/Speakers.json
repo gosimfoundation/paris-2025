@@ -763,6 +763,25 @@
       "draft": false
     },
     {
+      "id": "pawel-kiszczak",
+      "name": "Paweł Kiszczak",
+      "bio": "Data Scientist / ML Engineer with over two years of experience in the SpeakLeash project. Within the team, I am responsible for data collection, processing, and linguistic analysis. I have developed numerous internal tools for web crawling, data processing, and workflow automation. My contributions include enriching the SpeakLeash datasets with dozens of gigabytes of valuable data. Professionally, I am part of Deviniti’s R&D team, where I work as a Data Scientist on a daily basis.",
+      "role": "Data Scientist",
+      "org": "Bielik.ai",
+      "roleOrg": "Data Scientist at Bielik.ai",
+      "tag": "spotlight-ai",
+      "image": "pawel-kiszczak.jpg",
+      "socialLinks": {
+        "mastodon": "undefined",
+        "twitter": "undefined",
+        "github": "undefined",
+        "linkedin": "undefined",
+        "website": "undefined"
+      },
+      "status": "New",
+      "draft": false
+    },
+    {
       "id": "ville-kuosmanen",
       "tag": "embodied-ai",
       "name": "Ville Kuosmanen",
@@ -1198,19 +1217,19 @@
       "draft": false
     },
     {
-      "id": "pedro-ortis",
-      "name": "Pedro Ortis",
-      "bio": "",
-      "role": "Senior Research Scientist",
-      "org": "Common Crawl",
-      "roleOrg": "Senior Research Scientist at Common Crawl",
-      "image": "pedro-ortis-suarez.jpg",
-      "tag": "pytorch",
+      "id": "cailean-osborne",
+      "name": "Cailean Osborne, PhD",
+      "bio": "Cailean Osborne is a senior researcher at the Linux Foundation, who leads strategic research on open source AI. Cailean has a PhD in Social Data Science from the University of Oxford, where he researched commercial interests and collaboration dynamics in open source AI developer communities, and in 2023-2024 he was a visiting researcher at Peking University’s Open Source Software Data Analytics Lab. Previously, Cailean worked in AI policy at the UK Government and was a UK government delegate at the OECD’s Global Partnership on AI and the Council of Europe’s Committee on AI. Cailean is based in Berlin, Germany.",
+      "role": "Senior Researcher",
+      "org": "Linux Foundation",
+      "roleOrg": "Senior Researcher at Linux Foundation",
+      "image": "cailean-osborne.png",
+      "tag": "forum",
       "socialLinks": {
         "mastodon": "undefined",
         "twitter": "undefined",
         "github": "undefined",
-        "linkedin": "undefined",
+        "linkedin": "https://www.linkedin.com/in/caileanosborne/",
         "website": "undefined"
       },
       "status": "New",
@@ -1249,25 +1268,6 @@
         "twitter": "https://x.com/gui_penedo",
         "github": "https://github.com/guipenedo",
         "linkedin": "https://www.linkedin.com/in/guilhermepenedo",
-        "website": "undefined"
-      },
-      "status": "New",
-      "draft": false
-    },
-    {
-      "id": "cailean-osborne",
-      "name": "Cailean Osborne, PhD",
-      "bio": "Cailean Osborne is a senior researcher at the Linux Foundation, who leads strategic research on open source AI. Cailean has a PhD in Social Data Science from the University of Oxford, where he researched commercial interests and collaboration dynamics in open source AI developer communities, and in 2023-2024 he was a visiting researcher at Peking University’s Open Source Software Data Analytics Lab. Previously, Cailean worked in AI policy at the UK Government and was a UK government delegate at the OECD’s Global Partnership on AI and the Council of Europe’s Committee on AI. Cailean is based in Berlin, Germany.",
-      "role": "Senior Researcher",
-      "org": "Linux Foundation",
-      "roleOrg": "Senior Researcher at Linux Foundation",
-      "image": "cailean-osborne.png",
-      "tag": "forum",
-      "socialLinks": {
-        "mastodon": "undefined",
-        "twitter": "undefined",
-        "github": "undefined",
-        "linkedin": "https://www.linkedin.com/in/caileanosborne/",
         "website": "undefined"
       },
       "status": "New",
@@ -1402,6 +1402,25 @@
         "github": "https://github.com/gschoeni",
         "linkedin": "undefined",
         "website": "https://www.oxen.ai/blog"
+      },
+      "status": "New",
+      "draft": false
+    },
+    {
+      "id": "pedro-ortis-suarez",
+      "name": "Pedro Ortis Suarez",
+      "bio": "",
+      "role": "Senior Research Scientist",
+      "org": "Common Crawl",
+      "roleOrg": "Senior Research Scientist at Common Crawl",
+      "image": "pedro-ortis-suarez.jpg",
+      "tag": "pytorch",
+      "socialLinks": {
+        "mastodon": "undefined",
+        "twitter": "undefined",
+        "github": "undefined",
+        "linkedin": "undefined",
+        "website": "undefined"
       },
       "status": "New",
       "draft": false
@@ -1577,7 +1596,25 @@
       "status": "New",
       "draft": false
     },
-
+    {
+      "id": "zonghuan-wu",
+      "name": "Zonghuan Wu",
+      "bio": "Dr. Zonghuan Wu leads the open-source project MoFA, an intelligent agent framework driving a new generation of composable AI systems. He also writes Relevant, a tech blog offering insights into AI and its applications.\r\n\r\nDr. Wu is a co-founder of Relevant Study LLC, a consultancy specializing in AI and open-source software. He is also the founder of the Moxin Foundation, an open-source community dedicated to advancing AI and machine learning technologies.\r\n\r\nDr. Wu holds a PhD in Computer Science from the University of Alberta, Canada, where he focused on machine learning and natural language processing. He has published over 20 papers in top-tier conferences and journals, including NeurIPS, ICML, ICLR, ACL, EMNLP, and AAAI. He has also served as a program committee member for several leading conferences in the field.\r\n\r\nA seasoned AI innovator and tech entrepreneur, Dr. Wu’s career spans Asia and North America. With over a decade of leadership experience at Huawei, he spearheaded advancements in search, knowledge graphs, and artificial intelligence across global R&D centers—including serving as Chief Architect of Knowledge Systems, founding the R&D division at Huawei Turkey and leading numerous R&D and technology transfer porjects. As an advisor and consultant, he continues to support Global 500 tech firms and academic institutions in innovation strategy and future AI architectures.",
+      "role": "Founder",
+      "org": "Relevant Study LLC",
+      "roleOrg": "Founder at Relevant Study LLC",
+      "tag": "spotlight-ai",
+      "image": "zonghuan-wu.jpeg",
+      "socialLinks": {
+        "mastodon": "undefined",
+        "twitter": "undefined",
+        "github": "https://github.com/moxin-org/mofa",
+        "linkedin": "https://www.linkedin.com/in/zonghuan/",
+        "website": "undefined"
+      },
+      "status": "New",
+      "draft": false
+    },
     {
       "id": "baosong-yang",
       "tag": "ai-model",
@@ -1769,25 +1806,6 @@
       "draft": false
     },
     {
-      "id": "michal-domaski",
-      "name": "Michał Domański",
-      "bio": "",
-      "role": "",
-      "org": "Bielik.ai",
-      "roleOrg": "Bielik.ai",
-      "tag": "spotlight-ai",
-      "image": "generic-profile.png",
-      "socialLinks": {
-        "mastodon": "undefined",
-        "twitter": "undefined",
-        "github": "undefined",
-        "linkedin": "undefined",
-        "website": "undefined"
-      },
-      "status": "New",
-      "draft": false
-    },
-    {
       "id": "gautier-viaud",
       "name": "Gautier Viaud",
       "bio": "",
@@ -1800,25 +1818,6 @@
         "mastodon": "undefined",
         "twitter": "undefined",
         "github": "undefined",
-        "linkedin": "undefined",
-        "website": "undefined"
-      },
-      "status": "New",
-      "draft": false
-    },
-    {
-      "id": "zonghuan-wu",
-      "name": "Zonghuan Wu",
-      "bio": "Dr. Wu holds a Ph.D. in Computer Science from the State University of New York and an MBA. He is the co-founder of CantorAI and a former research engineer, architect, and leader of multinational R&D teams at Huawei's U.S. Research Institute and Turkey Research Institute. Dr. Wu provides consulting services on technological development, innovation, and productization in AI, knowledge graphs, and search for various enterprises and universities. He also shares cutting-edge insights on AI through the \"RelevantNews\" public WeChat account.",
-      "role": "Founder",
-      "org": "Relevant Study",
-      "roleOrg": "Founder at Relevant Study",
-      "tag": "spotlight-ai",
-      "image": "generic-profile.png",
-      "socialLinks": {
-        "mastodon": "undefined",
-        "twitter": "undefined",
-        "github": "http://github.com/moxin-org/mofa",
         "linkedin": "undefined",
         "website": "undefined"
       },
