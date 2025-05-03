@@ -47,6 +47,14 @@
     "AI Model": [
       {
         "date": "May 6",
+        "timeSlot": "8:30 - 9:30",
+        "room": "Entrance Lobby",
+        "title": "Registration & Check-In",
+        "content": "Badge Pickup & Breakfast",
+        "speakers": []
+      },
+      {
+        "date": "May 6",
         "timeSlot": "9:30 - 10:00",
         "room": "Master Stage",
         "title": "Keynote",
@@ -101,9 +109,52 @@
       {
         "date": "May 6",
         "timeSlot": "12:30 - 13:50",
-        "title": "Spotlight Talks",
+        "title": "Spotlight Talks Day 1",
         "content": "GOSIM AI Spotlight Finalists will present their projects.",
-        "speakers": []
+        "speakers": [
+          {
+            "id": "cyril-moineau",
+            "name": "Cyril Moineau",
+            "tags": ["spotlight-ai"],
+            "roleOrg": "Research Engineer at CEA",
+            "image": "cyril-moineau.jpg"
+          },
+          {
+            "id": "pawel-kiszczak",
+            "name": "Paweł Kiszczak",
+            "tags": ["spotlight-ai"],
+            "roleOrg": "Data Scientist at Bielik.ai",
+            "image": "pawel-kiszczak.jpg"
+          },
+          {
+            "id": "hung-ying-tai",
+            "name": "Hung-Ying Tai",
+            "tags": ["spotlight-ai"],
+            "roleOrg": "Tech Lead at Second State",
+            "image": "hung-ying-tai.jpg"
+          },
+          {
+            "id": "tianyu-chen",
+            "name": "Tianyu Chen",
+            "tags": ["spotlight-ai"],
+            "roleOrg": "Ph.D Candidate at Peking University",
+            "image": "tianyu-chen.jpeg"
+          },
+          {
+            "id": "gautier-viaud",
+            "name": "Gautier Viaud",
+            "tags": ["spotlight-ai"],
+            "roleOrg": "Head of Research & Development at Illuin Technology",
+            "image": "generic-profile.png"
+          },
+          {
+            "id": "xiao-zhang",
+            "name": "Xiao Zhang",
+            "tags": ["spotlight-ai"],
+            "roleOrg": "CEO of Dynamia.ai",
+            "image": "xiao-zhang.jpg"
+          }
+        ]
       },
       {
         "date": "May 6",
@@ -196,6 +247,14 @@
       },
       {
         "date": "May 7",
+        "timeSlot": "9:00 - 9:30",
+        "room": "Entrance Lobby",
+        "title": "Registration & Check-In",
+        "content": "Badge Pickup & Breakfast",
+        "speakers": []
+      },
+      {
+        "date": "May 7",
         "timeSlot": "9:30 - 10:00",
         "room": "Master Stage",
         "title": "Keynote",
@@ -250,9 +309,45 @@
       {
         "date": "May 7",
         "timeSlot": "12:30 - 13:50",
-        "title": "Spotlight Talks",
+        "title": "Spotlight Talks Day 2",
         "content": "GOSIM AI Spotlight Finalists will present their projects.",
-        "speakers": []
+        "speakers": [
+          {
+            "id": "benoit-courty",
+            "name": "Benoit Courty",
+            "tags": ["spotlight-ai"],
+            "roleOrg": "Neo-Robotix",
+            "image": "benoit-courty.jpeg"
+          },
+          {
+            "id": "siao-liu",
+            "name": "Siao Liu",
+            "tags": ["spotlight-ai"],
+            "roleOrg": "Researcher at BAAI",
+            "image": "siao-liu.jpg"
+          },
+          {
+            "id": "ruixue-ding",
+            "name": "Ruixue Ding",
+            "tags": ["spotlight-ai"],
+            "roleOrg": "Algorithm Expert at Alibaba Tongyi Lab",
+            "image": "ruixue-ding.jpg"
+          },
+          {
+            "id": "yaowei-zheng",
+            "tags": ["spotlight-ai"],
+            "name": "Yaowei Zheng",
+            "roleOrg": "Ph.D. Student at Beihang University",
+            "image": "yaowei-zheng.jpeg"
+          },
+          {
+            "id": "zonghuan-wu",
+            "name": "Zonghuan Wu",
+            "tags": ["spotlight-ai"],
+            "roleOrg": "Founder at Relevant Study LLC",
+            "image": "zonghuan-wu.jpeg"
+          }
+        ]
       },
       {
         "date": "May 7",
@@ -332,6 +427,14 @@
     "AI Infra": [
       {
         "date": "May 6",
+        "timeSlot": "8:30 - 9:30",
+        "room": "Entrance Lobby",
+        "title": "Registration & Check-In",
+        "content": "Badge Pickup & Breakfast",
+        "speakers": []
+      },
+      {
+        "date": "May 6",
         "timeSlot": "9:30 - 10:00",
         "room": "Master Stage",
         "title": "Keynote",
@@ -386,9 +489,52 @@
       {
         "date": "May 6",
         "timeSlot": "12:30 - 13:50",
-        "title": "Spotlight Talks",
+        "title": "Spotlight Talks Day 1",
         "content": "GOSIM AI Spotlight Finalists will present their projects.",
-        "speakers": []
+        "speakers": [
+          {
+            "id": "cyril-moineau",
+            "name": "Cyril Moineau",
+            "tags": ["spotlight-ai"],
+            "roleOrg": "Research Engineer at CEA",
+            "image": "cyril-moineau.jpg"
+          },
+          {
+            "id": "pawel-kiszczak",
+            "name": "Paweł Kiszczak",
+            "tags": ["spotlight-ai"],
+            "roleOrg": "Data Scientist at Bielik.ai",
+            "image": "pawel-kiszczak.jpg"
+          },
+          {
+            "id": "hung-ying-tai",
+            "name": "Hung-Ying Tai",
+            "tags": ["spotlight-ai"],
+            "roleOrg": "Tech Lead at Second State",
+            "image": "hung-ying-tai.jpg"
+          },
+          {
+            "id": "tianyu-chen",
+            "name": "Tianyu Chen",
+            "tags": ["spotlight-ai"],
+            "roleOrg": "Ph.D Candidate at Peking University",
+            "image": "tianyu-chen.jpeg"
+          },
+          {
+            "id": "gautier-viaud",
+            "name": "Gautier Viaud",
+            "tags": ["spotlight-ai"],
+            "roleOrg": "Head of Research & Development at Illuin Technology",
+            "image": "generic-profile.png"
+          },
+          {
+            "id": "xiao-zhang",
+            "name": "Xiao Zhang",
+            "tags": ["spotlight-ai"],
+            "roleOrg": "CEO of Dynamia.ai",
+            "image": "xiao-zhang.jpg"
+          }
+        ]
       },
       {
         "date": "May 6",
@@ -466,6 +612,14 @@
       },
       {
         "date": "May 7",
+        "timeSlot": "9:00 - 9:30",
+        "room": "Entrance Lobby",
+        "title": "Registration & Check-In",
+        "content": "Badge Pickup & Breakfast",
+        "speakers": []
+      },
+      {
+        "date": "May 7",
         "timeSlot": "9:30 - 10:00",
         "room": "Master Stage",
         "title": "Keynote",
@@ -520,9 +674,45 @@
       {
         "date": "May 7",
         "timeSlot": "12:30 - 13:50",
-        "title": "Spotlight Talks",
+        "title": "Spotlight Talks Day 2",
         "content": "GOSIM AI Spotlight Finalists will present their projects.",
-        "speakers": []
+        "speakers": [
+          {
+            "id": "benoit-courty",
+            "name": "Benoit Courty",
+            "tags": ["spotlight-ai"],
+            "roleOrg": "Neo-Robotix",
+            "image": "benoit-courty.jpeg"
+          },
+          {
+            "id": "siao-liu",
+            "name": "Siao Liu",
+            "tags": ["spotlight-ai"],
+            "roleOrg": "Researcher at BAAI",
+            "image": "siao-liu.jpg"
+          },
+          {
+            "id": "ruixue-ding",
+            "name": "Ruixue Ding",
+            "tags": ["spotlight-ai"],
+            "roleOrg": "Algorithm Expert at Alibaba Tongyi Lab",
+            "image": "ruixue-ding.jpg"
+          },
+          {
+            "id": "yaowei-zheng",
+            "tags": ["spotlight-ai"],
+            "name": "Yaowei Zheng",
+            "roleOrg": "Ph.D. Student at Beihang University",
+            "image": "yaowei-zheng.jpeg"
+          },
+          {
+            "id": "zonghuan-wu",
+            "name": "Zonghuan Wu",
+            "tags": ["spotlight-ai"],
+            "roleOrg": "Founder at Relevant Study LLC",
+            "image": "zonghuan-wu.jpeg"
+          }
+        ]
       },
       {
         "date": "May 7",
@@ -602,6 +792,14 @@
     "AI Apps": [
       {
         "date": "May 6",
+        "timeSlot": "8:30 - 9:30",
+        "room": "Entrance Lobby",
+        "title": "Registration & Check-In",
+        "content": "Badge Pickup & Breakfast",
+        "speakers": []
+      },
+      {
+        "date": "May 6",
         "timeSlot": "9:30 - 10:00",
         "room": "Master Stage",
         "title": "Keynote",
@@ -656,9 +854,52 @@
       {
         "date": "May 6",
         "timeSlot": "12:30 - 13:50",
-        "title": "Spotlight Talks",
+        "title": "Spotlight Talks Day 1",
         "content": "GOSIM AI Spotlight Finalists will present their projects.",
-        "speakers": []
+        "speakers": [
+          {
+            "id": "cyril-moineau",
+            "name": "Cyril Moineau",
+            "tags": ["spotlight-ai"],
+            "roleOrg": "Research Engineer at CEA",
+            "image": "cyril-moineau.jpg"
+          },
+          {
+            "id": "pawel-kiszczak",
+            "name": "Paweł Kiszczak",
+            "tags": ["spotlight-ai"],
+            "roleOrg": "Data Scientist at Bielik.ai",
+            "image": "pawel-kiszczak.jpg"
+          },
+          {
+            "id": "hung-ying-tai",
+            "name": "Hung-Ying Tai",
+            "tags": ["spotlight-ai"],
+            "roleOrg": "Tech Lead at Second State",
+            "image": "hung-ying-tai.jpg"
+          },
+          {
+            "id": "tianyu-chen",
+            "name": "Tianyu Chen",
+            "tags": ["spotlight-ai"],
+            "roleOrg": "Ph.D Candidate at Peking University",
+            "image": "tianyu-chen.jpeg"
+          },
+          {
+            "id": "gautier-viaud",
+            "name": "Gautier Viaud",
+            "tags": ["spotlight-ai"],
+            "roleOrg": "Head of Research & Development at Illuin Technology",
+            "image": "generic-profile.png"
+          },
+          {
+            "id": "xiao-zhang",
+            "name": "Xiao Zhang",
+            "tags": ["spotlight-ai"],
+            "roleOrg": "CEO of Dynamia.ai",
+            "image": "xiao-zhang.jpg"
+          }
+        ]
       },
       {
         "date": "May 6",
@@ -751,6 +992,14 @@
       },
       {
         "date": "May 7",
+        "timeSlot": "9:00 - 9:30",
+        "room": "Entrance Lobby",
+        "title": "Registration & Check-In",
+        "content": "Badge Pickup & Breakfast",
+        "speakers": []
+      },
+      {
+        "date": "May 7",
         "timeSlot": "9:30 - 10:00",
         "room": "Master Stage",
         "title": "Keynote",
@@ -805,9 +1054,45 @@
       {
         "date": "May 7",
         "timeSlot": "12:30 - 13:50",
-        "title": "Spotlight Talks",
+        "title": "Spotlight Talks Day 2",
         "content": "GOSIM AI Spotlight Finalists will present their projects.",
-        "speakers": []
+        "speakers": [
+          {
+            "id": "benoit-courty",
+            "name": "Benoit Courty",
+            "tags": ["spotlight-ai"],
+            "roleOrg": "Neo-Robotix",
+            "image": "benoit-courty.jpeg"
+          },
+          {
+            "id": "siao-liu",
+            "name": "Siao Liu",
+            "tags": ["spotlight-ai"],
+            "roleOrg": "Researcher at BAAI",
+            "image": "siao-liu.jpg"
+          },
+          {
+            "id": "ruixue-ding",
+            "name": "Ruixue Ding",
+            "tags": ["spotlight-ai"],
+            "roleOrg": "Algorithm Expert at Alibaba Tongyi Lab",
+            "image": "ruixue-ding.jpg"
+          },
+          {
+            "id": "yaowei-zheng",
+            "tags": ["spotlight-ai"],
+            "name": "Yaowei Zheng",
+            "roleOrg": "Ph.D. Student at Beihang University",
+            "image": "yaowei-zheng.jpeg"
+          },
+          {
+            "id": "zonghuan-wu",
+            "name": "Zonghuan Wu",
+            "tags": ["spotlight-ai"],
+            "roleOrg": "Founder at Relevant Study LLC",
+            "image": "zonghuan-wu.jpeg"
+          }
+        ]
       },
       {
         "date": "May 7",
@@ -887,6 +1172,14 @@
     "Embodied AI": [
       {
         "date": "May 6",
+        "timeSlot": "8:30 - 9:30",
+        "room": "Entrance Lobby",
+        "title": "Registration & Check-In",
+        "content": "Badge Pickup & Breakfast",
+        "speakers": []
+      },
+      {
+        "date": "May 6",
         "timeSlot": "9:30 - 10:00",
         "room": "Master Stage",
         "title": "Keynote",
@@ -941,9 +1234,52 @@
       {
         "date": "May 6",
         "timeSlot": "12:30 - 13:50",
-        "title": "Spotlight Talks",
+        "title": "Spotlight Talks Day 1",
         "content": "GOSIM AI Spotlight Finalists will present their projects.",
-        "speakers": []
+        "speakers": [
+          {
+            "id": "cyril-moineau",
+            "name": "Cyril Moineau",
+            "tags": ["spotlight-ai"],
+            "roleOrg": "Research Engineer at CEA",
+            "image": "cyril-moineau.jpg"
+          },
+          {
+            "id": "pawel-kiszczak",
+            "name": "Paweł Kiszczak",
+            "tags": ["spotlight-ai"],
+            "roleOrg": "Data Scientist at Bielik.ai",
+            "image": "pawel-kiszczak.jpg"
+          },
+          {
+            "id": "hung-ying-tai",
+            "name": "Hung-Ying Tai",
+            "tags": ["spotlight-ai"],
+            "roleOrg": "Tech Lead at Second State",
+            "image": "hung-ying-tai.jpg"
+          },
+          {
+            "id": "tianyu-chen",
+            "name": "Tianyu Chen",
+            "tags": ["spotlight-ai"],
+            "roleOrg": "Ph.D Candidate at Peking University",
+            "image": "tianyu-chen.jpeg"
+          },
+          {
+            "id": "gautier-viaud",
+            "name": "Gautier Viaud",
+            "tags": ["spotlight-ai"],
+            "roleOrg": "Head of Research & Development at Illuin Technology",
+            "image": "generic-profile.png"
+          },
+          {
+            "id": "xiao-zhang",
+            "name": "Xiao Zhang",
+            "tags": ["spotlight-ai"],
+            "roleOrg": "CEO of Dynamia.ai",
+            "image": "xiao-zhang.jpg"
+          }
+        ]
       },
       {
         "date": "May 6",
@@ -1021,6 +1357,14 @@
       },
       {
         "date": "May 7",
+        "timeSlot": "9:00 - 9:30",
+        "room": "Entrance Lobby",
+        "title": "Registration & Check-In",
+        "content": "Badge Pickup & Breakfast",
+        "speakers": []
+      },
+      {
+        "date": "May 7",
         "timeSlot": "9:30 - 10:00",
         "room": "Master Stage",
         "title": "Keynote",
@@ -1075,9 +1419,45 @@
       {
         "date": "May 7",
         "timeSlot": "12:30 - 13:50",
-        "title": "Spotlight Talks",
+        "title": "Spotlight Talks Day 2",
         "content": "GOSIM AI Spotlight Finalists will present their projects.",
-        "speakers": []
+        "speakers": [
+          {
+            "id": "benoit-courty",
+            "name": "Benoit Courty",
+            "tags": ["spotlight-ai"],
+            "roleOrg": "Neo-Robotix",
+            "image": "benoit-courty.jpeg"
+          },
+          {
+            "id": "siao-liu",
+            "name": "Siao Liu",
+            "tags": ["spotlight-ai"],
+            "roleOrg": "Researcher at BAAI",
+            "image": "siao-liu.jpg"
+          },
+          {
+            "id": "ruixue-ding",
+            "name": "Ruixue Ding",
+            "tags": ["spotlight-ai"],
+            "roleOrg": "Algorithm Expert at Alibaba Tongyi Lab",
+            "image": "ruixue-ding.jpg"
+          },
+          {
+            "id": "yaowei-zheng",
+            "tags": ["spotlight-ai"],
+            "name": "Yaowei Zheng",
+            "roleOrg": "Ph.D. Student at Beihang University",
+            "image": "yaowei-zheng.jpeg"
+          },
+          {
+            "id": "zonghuan-wu",
+            "name": "Zonghuan Wu",
+            "tags": ["spotlight-ai"],
+            "roleOrg": "Founder at Relevant Study LLC",
+            "image": "zonghuan-wu.jpeg"
+          }
+        ]
       },
       {
         "date": "May 7",
