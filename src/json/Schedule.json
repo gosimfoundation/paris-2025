@@ -55,11 +55,35 @@
       },
       {
         "date": "May 6",
-        "timeSlot": "9:30 - 10:00",
+        "timeSlot": "9:30 - 9:45",
         "room": "Master Stage",
-        "title": "Keynote",
+        "title": "Keynote: Open-Source has Caught Up, What's Next?",
+        "content": "Two years after ChatGPT, open-source LLMs have caught up with or even exceeded the leading edge closed-source LLMs across almost all benchmarks. Furthermore, the open-source models have clear advantages in emerging agent applications — as they are much easier to fine-tune and customize, safer and easier to deploy on private devices. Throughout the GOSIM conference, we will highlight and introduce open-source LLMs and their applications.",
+        "speakers": [
+          {
+            "id": "michael-yuan",
+            "name": "Michael Yuan",
+            "tags": ["All"],
+            "roleOrg": "Co-Founder of GOSIM",
+            "image": "michael-yuan.jpg"
+          }
+        ]
+      },
+      {
+        "date": "May 6",
+        "timeSlot": "9:45 - 10:00",
+        "room": "Master Stage",
+        "title": "Keynote: To Be Announced",
         "content": "",
-        "speakers": []
+        "speakers": [
+          {
+            "id": "daniel-goldscheider",
+            "name": "Daniel Goldscheider",
+            "tags": ["All"],
+            "roleOrg": "ED of the OpenWallet Foundation",
+            "image": "daniel-goldscheider.jpg"
+          }
+        ]
       },
       {
         "date": "May 6",
@@ -145,7 +169,7 @@
             "name": "Gautier Viaud",
             "tags": ["spotlight-ai"],
             "roleOrg": "Head of Research & Development at Illuin Technology",
-            "image": "generic-profile.png"
+            "image": "gautier-viaud.jpeg"
           },
           {
             "id": "xiao-zhang",
@@ -255,11 +279,35 @@
       },
       {
         "date": "May 7",
-        "timeSlot": "9:30 - 10:00",
+        "timeSlot": "9:30 - 9:45",
         "room": "Master Stage",
-        "title": "Keynote",
-        "content": "",
-        "speakers": []
+        "title": "Keynote: The Era of Open Experience",
+        "content": "DeepSeek R1 signals a significant turning point of LLM research and development, where more new architecture improvements utilised in pre-training and a brand new RL flywheel in post-training that desires the power of open source.\r\n\r\n In this talk we will first introduce LF AI & Data Foundation, then walk through six directions and trends of LLM research and finally we present a proposal of building open source ecosystem for reinforcement learning with generalised reward in a new era of open experience",
+        "speakers": [
+          {
+            "id": "zhipeng-huang",
+            "name": "Zhipeng Huang",
+            "tags": ["All"],
+            "roleOrg": "Board Member at Linux Foundation AI & Data",
+            "image": "zhipeng-huang.jpg"
+          }
+        ]
+      },
+      {
+        "date": "May 7",
+        "timeSlot": "9:45 - 10:00",
+        "room": "Master Stage",
+        "title": "Keynote: Unlocking AI’s Full Potential: How Open Source and Open Standards Will Shape the Future of Intelligent Systems",
+        "content": "Artificial intelligence is advancing at an unprecedented pace—but without a foundation rooted in openness, its future risks being fragmented, inaccessible, and unsustainable. In this keynote, Matt White, Executive Director of the PyTorch Foundation and General Manager of AI at the Linux Foundation, will explore why the convergence of open source and open standards is not just beneficial, but essential to AI’s long-term success. Drawing on lessons from the evolution of PyTorch and the broader open ecosystem, Matt will examine how collaborative frameworks, interoperable tooling, and transparent governance can drive innovation while ensuring trust, scalability, and global accessibility. Attendees will gain strategic insights into building responsible AI systems—and why openness must be at the core.",
+        "speakers": [
+          {
+            "id": "matt-white",
+            "name": "Matt White",
+            "tags": ["All"],
+            "roleOrg": "ED of the Pytorch Foundation",
+            "image": "matt-white.png"
+          }
+        ]
       },
       {
         "date": "May 7",
@@ -435,11 +483,35 @@
       },
       {
         "date": "May 6",
-        "timeSlot": "9:30 - 10:00",
+        "timeSlot": "9:30 - 9:45",
         "room": "Master Stage",
-        "title": "Keynote",
+        "title": "Keynote: Open-Source has Caught Up, What's Next?",
+        "content": "Two years after ChatGPT, open-source LLMs have caught up with or even exceeded the leading edge closed-source LLMs across almost all benchmarks. Furthermore, the open-source models have clear advantages in emerging agent applications — as they are much easier to fine-tune and customize, safer and easier to deploy on private devices. Throughout the GOSIM conference, we will highlight and introduce open-source LLMs and their applications.",
+        "speakers": [
+          {
+            "id": "michael-yuan",
+            "name": "Michael Yuan",
+            "tags": ["All"],
+            "roleOrg": "Co-Founder of GOSIM",
+            "image": "michael-yuan.jpg"
+          }
+        ]
+      },
+      {
+        "date": "May 6",
+        "timeSlot": "9:45 - 10:00",
+        "room": "Master Stage",
+        "title": "Keynote: To Be Announced",
         "content": "",
-        "speakers": []
+        "speakers": [
+          {
+            "id": "daniel-goldscheider",
+            "name": "Daniel Goldscheider",
+            "tags": ["All"],
+            "roleOrg": "ED of the OpenWallet Foundation",
+            "image": "daniel-goldscheider.jpg"
+          }
+        ]
       },
       {
         "date": "May 6",
@@ -525,7 +597,7 @@
             "name": "Gautier Viaud",
             "tags": ["spotlight-ai"],
             "roleOrg": "Head of Research & Development at Illuin Technology",
-            "image": "generic-profile.png"
+            "image": "gautier-viaud.jpeg"
           },
           {
             "id": "xiao-zhang",
@@ -620,11 +692,35 @@
       },
       {
         "date": "May 7",
-        "timeSlot": "9:30 - 10:00",
+        "timeSlot": "9:30 - 9:45",
         "room": "Master Stage",
-        "title": "Keynote",
-        "content": "",
-        "speakers": []
+        "title": "Keynote: The Era of Open Experience",
+        "content": "DeepSeek R1 signals a significant turning point of LLM research and development, where more new architecture improvements utilised in pre-training and a brand new RL flywheel in post-training that desires the power of open source.\r\n\r\n In this talk we will first introduce LF AI & Data Foundation, then walk through six directions and trends of LLM research and finally we present a proposal of building open source ecosystem for reinforcement learning with generalised reward in a new era of open experience",
+        "speakers": [
+          {
+            "id": "zhipeng-huang",
+            "name": "Zhipeng Huang",
+            "tags": ["All"],
+            "roleOrg": "Board Member at Linux Foundation AI & Data",
+            "image": "zhipeng-huang.jpg"
+          }
+        ]
+      },
+      {
+        "date": "May 7",
+        "timeSlot": "9:45 - 10:00",
+        "room": "Master Stage",
+        "title": "Keynote: Unlocking AI’s Full Potential: How Open Source and Open Standards Will Shape the Future of Intelligent Systems",
+        "content": "Artificial intelligence is advancing at an unprecedented pace—but without a foundation rooted in openness, its future risks being fragmented, inaccessible, and unsustainable. In this keynote, Matt White, Executive Director of the PyTorch Foundation and General Manager of AI at the Linux Foundation, will explore why the convergence of open source and open standards is not just beneficial, but essential to AI’s long-term success. Drawing on lessons from the evolution of PyTorch and the broader open ecosystem, Matt will examine how collaborative frameworks, interoperable tooling, and transparent governance can drive innovation while ensuring trust, scalability, and global accessibility. Attendees will gain strategic insights into building responsible AI systems—and why openness must be at the core.",
+        "speakers": [
+          {
+            "id": "matt-white",
+            "name": "Matt White",
+            "tags": ["All"],
+            "roleOrg": "ED of the Pytorch Foundation",
+            "image": "matt-white.png"
+          }
+        ]
       },
       {
         "date": "May 7",
@@ -800,11 +896,35 @@
       },
       {
         "date": "May 6",
-        "timeSlot": "9:30 - 10:00",
+        "timeSlot": "9:30 - 9:45",
         "room": "Master Stage",
-        "title": "Keynote",
+        "title": "Keynote: Open-Source has Caught Up, What's Next?",
+        "content": "Two years after ChatGPT, open-source LLMs have caught up with or even exceeded the leading edge closed-source LLMs across almost all benchmarks. Furthermore, the open-source models have clear advantages in emerging agent applications — as they are much easier to fine-tune and customize, safer and easier to deploy on private devices. Throughout the GOSIM conference, we will highlight and introduce open-source LLMs and their applications.",
+        "speakers": [
+          {
+            "id": "michael-yuan",
+            "name": "Michael Yuan",
+            "tags": ["All"],
+            "roleOrg": "Co-Founder of GOSIM",
+            "image": "michael-yuan.jpg"
+          }
+        ]
+      },
+      {
+        "date": "May 6",
+        "timeSlot": "9:45 - 10:00",
+        "room": "Master Stage",
+        "title": "Keynote: To Be Announced",
         "content": "",
-        "speakers": []
+        "speakers": [
+          {
+            "id": "daniel-goldscheider",
+            "name": "Daniel Goldscheider",
+            "tags": ["All"],
+            "roleOrg": "ED of the OpenWallet Foundation",
+            "image": "daniel-goldscheider.jpg"
+          }
+        ]
       },
       {
         "date": "May 6",
@@ -890,7 +1010,7 @@
             "name": "Gautier Viaud",
             "tags": ["spotlight-ai"],
             "roleOrg": "Head of Research & Development at Illuin Technology",
-            "image": "generic-profile.png"
+            "image": "gautier-viaud.jpeg"
           },
           {
             "id": "xiao-zhang",
@@ -1000,11 +1120,35 @@
       },
       {
         "date": "May 7",
-        "timeSlot": "9:30 - 10:00",
+        "timeSlot": "9:30 - 9:45",
         "room": "Master Stage",
-        "title": "Keynote",
-        "content": "",
-        "speakers": []
+        "title": "Keynote: The Era of Open Experience",
+        "content": "DeepSeek R1 signals a significant turning point of LLM research and development, where more new architecture improvements utilised in pre-training and a brand new RL flywheel in post-training that desires the power of open source.\r\n\r\n In this talk we will first introduce LF AI & Data Foundation, then walk through six directions and trends of LLM research and finally we present a proposal of building open source ecosystem for reinforcement learning with generalised reward in a new era of open experience",
+        "speakers": [
+          {
+            "id": "zhipeng-huang",
+            "name": "Zhipeng Huang",
+            "tags": ["All"],
+            "roleOrg": "Board Member at Linux Foundation AI & Data",
+            "image": "zhipeng-huang.jpg"
+          }
+        ]
+      },
+      {
+        "date": "May 7",
+        "timeSlot": "9:45 - 10:00",
+        "room": "Master Stage",
+        "title": "Keynote: Unlocking AI’s Full Potential: How Open Source and Open Standards Will Shape the Future of Intelligent Systems",
+        "content": "Artificial intelligence is advancing at an unprecedented pace—but without a foundation rooted in openness, its future risks being fragmented, inaccessible, and unsustainable. In this keynote, Matt White, Executive Director of the PyTorch Foundation and General Manager of AI at the Linux Foundation, will explore why the convergence of open source and open standards is not just beneficial, but essential to AI’s long-term success. Drawing on lessons from the evolution of PyTorch and the broader open ecosystem, Matt will examine how collaborative frameworks, interoperable tooling, and transparent governance can drive innovation while ensuring trust, scalability, and global accessibility. Attendees will gain strategic insights into building responsible AI systems—and why openness must be at the core.",
+        "speakers": [
+          {
+            "id": "matt-white",
+            "name": "Matt White",
+            "tags": ["All"],
+            "roleOrg": "ED of the Pytorch Foundation",
+            "image": "matt-white.png"
+          }
+        ]
       },
       {
         "date": "May 7",
@@ -1180,11 +1324,35 @@
       },
       {
         "date": "May 6",
-        "timeSlot": "9:30 - 10:00",
+        "timeSlot": "9:30 - 9:45",
         "room": "Master Stage",
-        "title": "Keynote",
+        "title": "Keynote: Open-Source has Caught Up, What's Next?",
+        "content": "Two years after ChatGPT, open-source LLMs have caught up with or even exceeded the leading edge closed-source LLMs across almost all benchmarks. Furthermore, the open-source models have clear advantages in emerging agent applications — as they are much easier to fine-tune and customize, safer and easier to deploy on private devices. Throughout the GOSIM conference, we will highlight and introduce open-source LLMs and their applications.",
+        "speakers": [
+          {
+            "id": "michael-yuan",
+            "name": "Michael Yuan",
+            "tags": ["All"],
+            "roleOrg": "Co-Founder of GOSIM",
+            "image": "michael-yuan.jpg"
+          }
+        ]
+      },
+      {
+        "date": "May 6",
+        "timeSlot": "9:45 - 10:00",
+        "room": "Master Stage",
+        "title": "Keynote: To Be Announced",
         "content": "",
-        "speakers": []
+        "speakers": [
+          {
+            "id": "daniel-goldscheider",
+            "name": "Daniel Goldscheider",
+            "tags": ["All"],
+            "roleOrg": "ED of the OpenWallet Foundation",
+            "image": "daniel-goldscheider.jpg"
+          }
+        ]
       },
       {
         "date": "May 6",
@@ -1270,7 +1438,7 @@
             "name": "Gautier Viaud",
             "tags": ["spotlight-ai"],
             "roleOrg": "Head of Research & Development at Illuin Technology",
-            "image": "generic-profile.png"
+            "image": "gautier-viaud.jpeg"
           },
           {
             "id": "xiao-zhang",
@@ -1365,11 +1533,35 @@
       },
       {
         "date": "May 7",
-        "timeSlot": "9:30 - 10:00",
+        "timeSlot": "9:30 - 9:45",
         "room": "Master Stage",
-        "title": "Keynote",
-        "content": "",
-        "speakers": []
+        "title": "Keynote: The Era of Open Experience",
+        "content": "DeepSeek R1 signals a significant turning point of LLM research and development, where more new architecture improvements utilised in pre-training and a brand new RL flywheel in post-training that desires the power of open source.\r\n\r\n In this talk we will first introduce LF AI & Data Foundation, then walk through six directions and trends of LLM research and finally we present a proposal of building open source ecosystem for reinforcement learning with generalised reward in a new era of open experience",
+        "speakers": [
+          {
+            "id": "zhipeng-huang",
+            "name": "Zhipeng Huang",
+            "tags": ["All"],
+            "roleOrg": "Board Member of Linux Foundation AI & Data",
+            "image": "zhipeng-huang.jpg"
+          }
+        ]
+      },
+      {
+        "date": "May 7",
+        "timeSlot": "9:45 - 10:00",
+        "room": "Master Stage",
+        "title": "Keynote: Unlocking AI’s Full Potential: How Open Source and Open Standards Will Shape the Future of Intelligent Systems",
+        "content": "Artificial intelligence is advancing at an unprecedented pace—but without a foundation rooted in openness, its future risks being fragmented, inaccessible, and unsustainable. In this keynote, Matt White, Executive Director of the PyTorch Foundation and General Manager of AI at the Linux Foundation, will explore why the convergence of open source and open standards is not just beneficial, but essential to AI’s long-term success. Drawing on lessons from the evolution of PyTorch and the broader open ecosystem, Matt will examine how collaborative frameworks, interoperable tooling, and transparent governance can drive innovation while ensuring trust, scalability, and global accessibility. Attendees will gain strategic insights into building responsible AI systems—and why openness must be at the core.",
+        "speakers": [
+          {
+            "id": "matt-white",
+            "name": "Matt White",
+            "tags": ["All"],
+            "roleOrg": "ED of the Pytorch Foundation",
+            "image": "matt-white.png"
+          }
+        ]
       },
       {
         "date": "May 7",
@@ -1545,11 +1737,35 @@
       },
       {
         "date": "May 6",
-        "timeSlot": "9:30 - 10:00",
+        "timeSlot": "9:30 - 9:45",
         "room": "Master Stage",
-        "title": "Keynote",
-        "content": "GOSIM Keynote",
-        "speakers": []
+        "title": "Keynote: Open-Source has Caught Up, What's Next?",
+        "content": "Two years after ChatGPT, open-source LLMs have caught up with or even exceeded the leading edge closed-source LLMs across almost all benchmarks. Furthermore, the open-source models have clear advantages in emerging agent applications — as they are much easier to fine-tune and customize, safer and easier to deploy on private devices. Throughout the GOSIM conference, we will highlight and introduce open-source LLMs and their applications.",
+        "speakers": [
+          {
+            "id": "michael-yuan",
+            "name": "Michael Yuan",
+            "tags": ["All"],
+            "roleOrg": "Co-Founder of GOSIM",
+            "image": "michael-yuan.jpg"
+          }
+        ]
+      },
+      {
+        "date": "May 6",
+        "timeSlot": "9:45 - 10:00",
+        "room": "Master Stage",
+        "title": "Keynote: To Be Announced",
+        "content": "",
+        "speakers": [
+          {
+            "id": "daniel-goldscheider",
+            "name": "Daniel Goldscheider",
+            "tags": ["All"],
+            "roleOrg": "ED of the OpenWallet Foundation",
+            "image": "daniel-goldscheider.jpg"
+          }
+        ]
       },
       {
         "date": "May 6",
@@ -1583,11 +1799,35 @@
       },
       {
         "date": "May 7",
-        "timeSlot": "9:30 - 10:00",
+        "timeSlot": "9:30 - 9:45",
         "room": "Master Stage",
-        "title": "Keynote",
-        "content": "GOSIM Keynote",
-        "speakers": []
+        "title": "Keynote: The Era of Open Experience",
+        "content": "DeepSeek R1 signals a significant turning point of LLM research and development, where more new architecture improvements utilised in pre-training and a brand new RL flywheel in post-training that desires the power of open source.\r\n\r\n In this talk we will first introduce LF AI & Data Foundation, then walk through six directions and trends of LLM research and finally we present a proposal of building open source ecosystem for reinforcement learning with generalised reward in a new era of open experience",
+        "speakers": [
+          {
+            "id": "zhipeng-huang",
+            "name": "Zhipeng Huang",
+            "tags": ["All"],
+            "roleOrg": "Board Member at Linux Foundation AI & Data",
+            "image": "zhipeng-huang.jpg"
+          }
+        ]
+      },
+      {
+        "date": "May 7",
+        "timeSlot": "9:45 - 10:00",
+        "room": "Master Stage",
+        "title": "Keynote: Unlocking AI’s Full Potential: How Open Source and Open Standards Will Shape the Future of Intelligent Systems",
+        "content": "Artificial intelligence is advancing at an unprecedented pace—but without a foundation rooted in openness, its future risks being fragmented, inaccessible, and unsustainable. In this keynote, Matt White, Executive Director of the PyTorch Foundation and General Manager of AI at the Linux Foundation, will explore why the convergence of open source and open standards is not just beneficial, but essential to AI’s long-term success. Drawing on lessons from the evolution of PyTorch and the broader open ecosystem, Matt will examine how collaborative frameworks, interoperable tooling, and transparent governance can drive innovation while ensuring trust, scalability, and global accessibility. Attendees will gain strategic insights into building responsible AI systems—and why openness must be at the core.",
+        "speakers": [
+          {
+            "id": "matt-white",
+            "name": "Matt White",
+            "tags": ["All"],
+            "roleOrg": "ED of the Pytorch Foundation",
+            "image": "matt-white.png"
+          }
+        ]
       },
       {
         "date": "May 7",
@@ -1786,9 +2026,17 @@
       {
         "date": "May 7",
         "timeSlot": "16:40 - 17:00",
-        "title": "To Be Announced",
-        "content": "",
-        "speakers": []
+        "title": "Beat GPT 4 and Build the Best AI For You: Mobilizing First-Party Data with Fine-Tuning",
+        "content": "In late 2022, there was an alluring promise that large models can do everything - just prompt a sufficiently large model to solve your AI problem. But after two years of GenAI experimentation, it's clear that even the largest models still fall short for many use cases on quality, speed, cost, or reliability. Enter fine-tuning, small language models, automatic distillation, and continuous feedback loops that propagate behavior into the models. In this talk, we'll give a concrete framework for thinking about fine-tuning and when it's necessary. Then, we will show how combining modern open-source fine-tuning libraries has made fine-tuning more accessible than ever before and the platform that we can create to enable it.",
+        "speakers": [
+          {
+            "id": "paul-yang",
+            "name": "Paul Yang",
+            "tags": ["ai-infra"],
+            "roleOrg": "ML Engineering at Runhouse",
+            "image": "paul-yang.jpeg"
+          }
+        ]
       },
       {
         "date": "May 7",
@@ -1908,7 +2156,7 @@
             "name": "Gautier Viaud",
             "tags": ["spotlight-ai"],
             "roleOrg": "Head of Research & Development at Illuin Technology",
-            "image": "generic-profile.png"
+            "image": "gautier-viaud.jpeg"
           }
         ]
       },

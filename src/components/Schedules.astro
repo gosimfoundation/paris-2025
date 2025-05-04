@@ -74,7 +74,7 @@ const allSessions: Session[] = Object.entries(scheduleData.sessions).flatMap(
           scheduleData.categories.find((cat) => cat.id === categoryName)
             ?.name || categoryName,
         isSpecialEvent:
-          session.title === "Keynote" ||
+          session.title.startsWith("Keynote") ||
           session.title === "Morning Coffee" ||
           session.title === "Lunch Break" ||
           session.title === "Afternoon Coffee" ||

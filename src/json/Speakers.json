@@ -649,6 +649,25 @@
       "draft": false
     },
     {
+      "id": "zhipeng-huang",
+      "name": "Zhipeng Huang",
+      "bio": "",
+      "role": "Board Member",
+      "org": "Linux Foundation AI & Data",
+      "roleOrg": "Board Member at Linux Foundation AI & Data",
+      "image": "zhipeng-huang.jpg",
+      "tag": "all",
+      "socialLinks": {
+        "mastodon": "undefined",
+        "twitter": "undefined",
+        "github": "undefined",
+        "linkedin": "undefined",
+        "website": "undefined"
+      },
+      "status": "New",
+      "draft": false
+    },
+    {
       "id": "nicolas-hug",
       "name": "Nicolas Hug",
       "bio": "",
@@ -1692,6 +1711,25 @@
       "draft": false
     },
     {
+      "id": "michael-yuan",
+      "name": "Michael Yuan",
+      "bio": "",
+      "role": "Co-Founder",
+      "org": "GOSIM",
+      "roleOrg": "Co-Founder of GOSIM",
+      "image": "michael-yuan.jpg",
+      "tag": "all",
+      "socialLinks": {
+        "mastodon": "undefined",
+        "twitter": "undefined",
+        "github": "undefined",
+        "linkedin": "undefined",
+        "website": "undefined"
+      },
+      "status": "New",
+      "draft": false
+    },
+    {
       "id": "min-zhang",
       "tag": "embodied-ai",
       "name": "Min Zhang",
@@ -1813,7 +1851,7 @@
       "org": "Illuin Technology",
       "roleOrg": "Head of Research & Development at Illuin Technology",
       "tag": "spotlight-ai",
-      "image": "generic-profile.png",
+      "image": "gautier-viaud.jpeg",
       "socialLinks": {
         "mastodon": "undefined",
         "twitter": "undefined",
