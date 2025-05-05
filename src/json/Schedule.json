@@ -88,6 +88,7 @@
       {
         "date": "May 6",
         "timeSlot": "10:00 - 10:30",
+        "room": "Open Platform",
         "title": "Morning Coffee",
         "content": "Coffee & hors d’oeuvres",
         "speakers": []
@@ -213,6 +214,7 @@
       {
         "date": "May 6",
         "timeSlot": "15:20 - 15:40",
+        "room": "Open Platform",
         "title": "Afternoon Coffee",
         "content": "Coffee & hors d’oeuvres",
         "speakers": []
@@ -312,6 +314,7 @@
       {
         "date": "May 7",
         "timeSlot": "10:00 - 10:30",
+        "room": "Open Platform",
         "title": "Morning Coffee",
         "content": "Coffee & hors d’oeuvres",
         "speakers": []
@@ -430,6 +433,7 @@
       {
         "date": "May 7",
         "timeSlot": "15:20 - 15:40",
+        "room": "Open Platform",
         "title": "Afternoon Coffee",
         "content": "Coffee & hors d’oeuvres",
         "speakers": []
@@ -516,6 +520,7 @@
       {
         "date": "May 6",
         "timeSlot": "10:00 - 10:30",
+        "room": "Open Platform",
         "title": "Morning Coffee",
         "content": "Coffee & hors d’oeuvres",
         "speakers": []
@@ -641,6 +646,7 @@
       {
         "date": "May 6",
         "timeSlot": "15:20 - 15:40",
+        "room": "Open Platform",
         "title": "Afternoon Coffee",
         "content": "Coffee & hors d’oeuvres",
         "speakers": []
@@ -725,6 +731,7 @@
       {
         "date": "May 7",
         "timeSlot": "10:00 - 10:30",
+        "room": "Open Platform",
         "title": "Morning Coffee",
         "content": "Coffee & hors d’oeuvres",
         "speakers": []
@@ -843,6 +850,7 @@
       {
         "date": "May 7",
         "timeSlot": "15:20 - 15:40",
+        "room": "Open Platform",
         "title": "Afternoon Coffee",
         "content": "Coffee & hors d’oeuvres",
         "speakers": []
@@ -929,6 +937,7 @@
       {
         "date": "May 6",
         "timeSlot": "10:00 - 10:30",
+        "room": "Open Platform",
         "title": "Morning Coffee",
         "content": "Coffee & hors d’oeuvres",
         "speakers": []
@@ -1054,6 +1063,7 @@
       {
         "date": "May 6",
         "timeSlot": "15:20 - 15:40",
+        "room": "Open Platform",
         "title": "Afternoon Coffee",
         "content": "Coffee & hors d’oeuvres",
         "speakers": []
@@ -1153,6 +1163,7 @@
       {
         "date": "May 7",
         "timeSlot": "10:00 - 10:30",
+        "room": "Open Platform",
         "title": "Morning Coffee",
         "content": "Coffee & hors d’oeuvres",
         "speakers": []
@@ -1271,6 +1282,7 @@
       {
         "date": "May 7",
         "timeSlot": "15:20 - 15:40",
+        "room": "Open Platform",
         "title": "Afternoon Coffee",
         "content": "Coffee & hors d’oeuvres",
         "speakers": []
@@ -1357,6 +1369,7 @@
       {
         "date": "May 6",
         "timeSlot": "10:00 - 10:30",
+        "room": "Open Platform",
         "title": "Morning Coffee",
         "content": "Coffee & hors d’oeuvres",
         "speakers": []
@@ -1482,6 +1495,7 @@
       {
         "date": "May 6",
         "timeSlot": "15:20 - 15:40",
+        "room": "Open Platform",
         "title": "Afternoon Coffee",
         "content": "Coffee & hors d’oeuvres",
         "speakers": []
@@ -1566,6 +1580,7 @@
       {
         "date": "May 7",
         "timeSlot": "10:00 - 10:30",
+        "room": "Open Platform",
         "title": "Morning Coffee",
         "content": "Coffee & hors d’oeuvres",
         "speakers": []
@@ -1684,6 +1699,7 @@
       {
         "date": "May 7",
         "timeSlot": "15:20 - 15:40",
+        "room": "Open Platform",
         "title": "Afternoon Coffee",
         "content": "Coffee & hors d’oeuvres",
         "speakers": []
@@ -1770,6 +1786,7 @@
       {
         "date": "May 6",
         "timeSlot": "10:00 - 10:30",
+        "room": "Open Platform",
         "title": "Morning Coffee",
         "content": "Coffee & hors d’oeuvres",
         "speakers": []
@@ -1785,6 +1802,7 @@
       {
         "date": "May 6",
         "timeSlot": "15:20 - 15:40",
+        "room": "Open Platform",
         "title": "Afternoon Coffee",
         "content": "Coffee & hors d’oeuvres",
         "speakers": []
@@ -1832,6 +1850,7 @@
       {
         "date": "May 7",
         "timeSlot": "10:00 - 10:30",
+        "room": "Open Platform",
         "title": "Morning Coffee",
         "content": "Coffee & hors d’oeuvres",
         "speakers": []
@@ -1974,6 +1993,7 @@
       {
         "date": "May 7",
         "timeSlot": "15:20 - 15:40",
+        "room": "Open Platform",
         "title": "Afternoon Coffee",
         "content": "Coffee & hors d’oeuvres",
         "speakers": []

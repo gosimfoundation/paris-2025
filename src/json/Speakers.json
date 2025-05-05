@@ -516,25 +516,6 @@
       "draft": false
     },
     {
-      "id": "donny-greenberg",
-      "name": "Donny Greenberg",
-      "bio": "Donny is the co-founder and CEO of 🏃‍♀️Runhouse🏠. He was previously the product lead for PyTorch at Meta, supporting the AI community across research, production, OSS, and enterprise. Notable projects include TorchRec, the open-sourcing of Meta's large-scale recommendations infra, TorchArrow & TorchData, PyTorch's next generation of data APIs, and unifying training infrastructure at Meta.",
-      "role": "Co-founder / CEO",
-      "org": "Runhouse",
-      "roleOrg": "Co-founder / CEO at Runhouse",
-      "image": "donny-greenberg.jpeg",
-      "tag": "ai-infra",
-      "socialLinks": {
-        "mastodon": "undefined",
-        "twitter": "undefined",
-        "github": "undefined",
-        "linkedin": "https://www.linkedin.com/in/greenbergdon/",
-        "website": "undefined"
-      },
-      "status": "New",
-      "draft": true
-    },
-    {
       "id": "huy-hoang-ha",
       "tag": "ai-model",
       "name": "Huy Hoang Ha",
@@ -1524,11 +1505,30 @@
       "id": "ovidiu-vermesan",
       "name": "Ovidiu Vermesan",
       "bio": "",
-      "role": "",
+      "role": "Chief Scientist",
       "org": "SINTEF",
       "roleOrg": "Chief Scientist at SINTEF",
       "image": "ovidiu-vermesan.jpg",
       "tag": "forum",
+      "socialLinks": {
+        "mastodon": "undefined",
+        "twitter": "undefined",
+        "github": "undefined",
+        "linkedin": "undefined",
+        "website": "undefined"
+      },
+      "status": "New",
+      "draft": false
+    },
+    {
+      "id": "gautier-viaud",
+      "name": "Gautier Viaud",
+      "bio": "",
+      "role": "Head of Research & Development",
+      "org": "Illuin Technology",
+      "roleOrg": "Head of Research & Development at Illuin Technology",
+      "tag": "spotlight-ai",
+      "image": "gautier-viaud.jpeg",
       "socialLinks": {
         "mastodon": "undefined",
         "twitter": "undefined",
@@ -1833,25 +1833,6 @@
       "image": "yiran-zhong.png",
       "org": "MiniMax",
       "role": "Senior Research Director",
-      "socialLinks": {
-        "mastodon": "undefined",
-        "twitter": "undefined",
-        "github": "undefined",
-        "linkedin": "undefined",
-        "website": "undefined"
-      },
-      "status": "New",
-      "draft": false
-    },
-    {
-      "id": "gautier-viaud",
-      "name": "Gautier Viaud",
-      "bio": "",
-      "role": "Head of Research & Development",
-      "org": "Illuin Technology",
-      "roleOrg": "Head of Research & Development at Illuin Technology",
-      "tag": "spotlight-ai",
-      "image": "gautier-viaud.jpeg",
       "socialLinks": {
         "mastodon": "undefined",
         "twitter": "undefined",
