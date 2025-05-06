@@ -82,7 +82,14 @@ const speakerSessions = [
       timeSlot: session.timeSlot,
       category: "Forum"
     }))
-];
+].filter((session, index, self) => 
+  // Deduplicate sessions based on title, date, and timeSlot
+  index === self.findIndex((s) => 
+    s.title === session.title && 
+    s.date === session.date && 
+    s.timeSlot === session.timeSlot
+  )
+);
 
 // Social links mapping for icons
 const socialIconMap: Record<string, string> = {
