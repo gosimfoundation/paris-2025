@@ -922,8 +922,8 @@
         "date": "May 6",
         "timeSlot": "9:45 - 10:00",
         "room": "Master Stage",
-        "title": "Keynote: To Be Announced",
-        "content": "",
+        "title": "Keynote: Global Digital Collaboration",
+        "content": "The Global Digital Collaboration is a joint initiative of Intergovernmental Organizations (IGOs), Standard Development Organizations (SDOs), Open Source Organizations (OSOs) and Trade Associations to help fulfill the goals of the Compact.\r\nThese organizations act as Co-Conveners and invite the public sector, private sector and the global technical community to participate in the Global Digital Collaboration.",
         "speakers": [
           {
             "id": "daniel-goldscheider",
@@ -1465,8 +1465,8 @@
       {
         "date": "May 6",
         "timeSlot": "14:00 - 14:40",
-        "title": "Adversarial Safety-Critical Scenario Generation for Autonomous Driving",
-        "content": "valuating the decision-making system is indispensable in developing autonomous vehicles, while realistic and challenging safety-critical test scenarios play a crucial role. Obtaining these scenarios is non-trivial due to the long-tailed distribution, sparsity, and rarity in real-world data sets. To tackle this problem, we introduce a natural adversarial scenario generation solution using naturalistic human driving priors and reinforcement learning. Our experiments on public data sets demonstrate that our proposed model can generate realistic safety critical test scenarios covering both naturalness and adversariality with 44% efficiency gain over the baseline model.",
+        "title": "On-demand Scenario Generation for Testing Automated Driving Systems",
+        "content": "Valuating the decision-making system is indispensable in developing autonomous vehicles, while realistic and challenging safety-critical test scenarios play a crucial role. Obtaining these scenarios is non-trivial due to the long-tailed distribution, sparsity, and rarity in real-world data sets. To tackle this problem, we introduce a natural adversarial scenario generation solution using naturalistic human driving priors and reinforcement learning. Our experiments on public data sets demonstrate that our proposed model can generate realistic safety critical test scenarios covering both naturalness and adversariality with 44% efficiency gain over the baseline model.",
         "speakers": [
           {
             "id": "james-yang",
