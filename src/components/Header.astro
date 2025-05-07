@@ -1,10 +1,10 @@
 ---
 // Components
-import Button from "components/Button.astro";
-import Logo from "./Logo.astro";
-import NotificationBar from "components/NotificationBar.astro";
+import Button from "components/Button.astro"
+import Logo from "./Logo.astro"
+import NotificationBar from "components/NotificationBar.astro"
 
-const hasNotificationBar = true; // Set this to false when NotificationBar is removed or page will crash
+const hasNotificationBar = true // Set this to false when NotificationBar is removed or page will crash
 
 const links = [
   {
@@ -67,18 +67,20 @@ const links = [
       },
     ],
   },
-];
+]
 
-const slug = Astro.url.pathname;
+const slug = Astro.url.pathname
 ---
 
 <header>
-  {hasNotificationBar && (
-    <NotificationBar
-      text="🎉 Try the GOSIM Ticket 🎟 Lucky Draw! ✨"
-      link="https://x.com/gosimfoundation/status/1912744752925282408"
-    />
-  )}
+  {
+    hasNotificationBar && (
+      <NotificationBar
+        text="✨ Thank you all for participating in  GOSIM AI Paris! ✨ Share Your Moment by May 12 to Win a Free Trip! ✨"
+        link="https://x.com/gosimfoundation/status/1920061628932104656"
+      />
+    )
+  }
 
   <div class="floating-ticket-button">
     <Button
@@ -96,11 +98,7 @@ const slug = Astro.url.pathname;
       <div class="box-row box-row-logo">
         <Logo />
       </div>
-      <nav
-        class="box-row box-row-nav"
-        aria-label="Navigation Mobile"
-       
-      >
+      <nav class="box-row box-row-nav" aria-label="Navigation Mobile">
         <ul>
           {
             links.map((loop) => (
@@ -176,7 +174,11 @@ const slug = Astro.url.pathname;
     </div>
   </div>
 
-  <div class="main-nav-bar" style="opacity: 1;" data-has-notification={hasNotificationBar}>
+  <div
+    class="main-nav-bar"
+    style="opacity: 1;"
+    data-has-notification={hasNotificationBar}
+  >
     <div class="overlay nav-fill"></div>
     <div class="row">
       <div class="border-bottom"></div>
@@ -239,18 +241,13 @@ const slug = Astro.url.pathname;
           class="btn outline btn-hover"
         />
       </div>
-      <div
-        class="hamburger outline"
-        data-navigation-toggle="toggle"
-      >
+      <div class="hamburger outline" data-navigation-toggle="toggle">
         <div class="hamburger-fill"></div>
         <div class="bar bar-top"></div>
         <div class="bar bar-bottom"></div>
       </div>
 
-      <div
-        class="btn light btn-filter btn-filter-static btn-hover"
-      >
+      <div class="btn light btn-filter btn-filter-static btn-hover">
         <div class="btn-click filter-alpha-animate" data-filter-toggle="toggle">
           <div class="btn-content original">
             <div class="btn-fill"></div>
