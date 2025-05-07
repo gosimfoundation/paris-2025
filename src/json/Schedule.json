@@ -19,7 +19,7 @@
     },
     {
       "name": "AI Infra",
-      "room": "Central Room",
+      "room": "Founders Café (Updated)",
       "id": "ai-infra"
     },
     {
@@ -34,7 +34,7 @@
     },
     {
       "name": "PyTorch Day France",
-      "room": "Founders Café",
+      "room": "Central Room (Updated)",
       "id": "pytorch"
     },
     {
@@ -2229,7 +2229,7 @@
         "date": "May 7",
         "timeSlot": "13:00 -13:15",
         "title": "ViDoRAG: Visual Document Retrieval-Augmented Generation Via Dynamic Iterative Reasoning Agents",
-        "content": "ViDoRAG: Visual Document Retrieval-Augmented Generation via Dynamic Iterative Reasoning Agents. We propose to add automatic differentiation to Rust. This would allow Rust users to compute derivatives of arbitrary functions, which is the essential enabling technology for differentiable programming. This feature would open new opportunities for Rust in scientific computing, machine learning, robotics, computer vision, probabilistic analysis, and other fields",
+        "content": "Traditional RAG methods face challenges in understanding visually rich documents. We Introduce ViDoSeek dataset and ViDoRAG framework to bridge the gap.",
         "speakers": [
           {
             "id": "ruixue-ding",
