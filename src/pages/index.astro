@@ -1,29 +1,32 @@
 ---
 // Components
-import Layout from "layouts/Layout.astro";
-import Hero from "components/Hero.astro";
-import Intro from "components/Intro.astro";
-import Statistics from "components/Statistics.astro";
-import Tracks from "components/Tracks.astro";
-import FeaturedSpeakers from "components/FeaturedSpeakers.astro";
-import Cards from "components/Cards.astro";
-import TextAndImage from "components/TextAndImage.astro";
-import TextAndSponsors from "components/TextAndSponsors.astro";
-import VenueInfo from "components/VenueInfo.astro";
-import PreviousEvents from "components/PreviousEvents.astro";
-import GetTickets from "components/GetTickets.astro";
-import Marquee from "components/Marquee.astro";
-import CardsSponsors from "components/CardsSponsors.astro";
-import Notify from "components/Notify.astro";
+import Layout from "layouts/Layout.astro"
+import Hero from "components/Hero.astro"
+import Intro from "components/Intro.astro"
+import Statistics from "components/Statistics.astro"
+import Tracks from "components/Tracks.astro"
+import FeaturedSpeakers from "components/FeaturedSpeakers.astro"
+import Cards from "components/Cards.astro"
+import TextAndImage from "components/TextAndImage.astro"
+import TextAndSponsors from "components/TextAndSponsors.astro"
+import VenueInfo from "components/VenueInfo.astro"
+import PreviousEvents from "components/PreviousEvents.astro"
+import GetTickets from "components/GetTickets.astro"
+import Marquee from "components/Marquee.astro"
+import CardsSponsors from "components/CardsSponsors.astro"
+import Notify from "components/Notify.astro"
+import Button from "components/Button.astro"
+
+import { YouTube } from "astro-embed"
 
 // Images
-import Placeholder1 from "images/homepage/stats1.png";
-import Placeholder2 from "images/homepage/stats2.png";
-import Placeholder3 from "images/homepage/stats3.png";
-import SpotlightBlue from "images/homepage/spotlight-badge-ai-2025.svg";
-import GosimShanghai from "images/homepage/gosim-shanghai.png";
-import GosimDelft from "images/homepage/gosim-delft.png";
-import GosimBeijing from "images/homepage/gosim-beijing.png";
+import Placeholder1 from "images/homepage/stats1.png"
+import Placeholder2 from "images/homepage/stats2.png"
+import Placeholder3 from "images/homepage/stats3.png"
+import SpotlightBlue from "images/homepage/spotlight-badge-ai-2025.svg"
+import GosimShanghai from "images/homepage/gosim-shanghai.png"
+import GosimDelft from "images/homepage/gosim-delft.png"
+import GosimBeijing from "images/homepage/gosim-beijing.png"
 ---
 
 <Layout
@@ -49,23 +52,7 @@ import GosimBeijing from "images/homepage/gosim-beijing.png";
       },
     ]}
   />
-  <!--   <CardsSponsors
-    title="Proudly Sponsored By"
-    sponsors={[
-      {
-        name: "1ms.ai",
-        image: "/images/sponsors/1msai.png",
-      },
-      {
-        name: "Huawei",
-        image: "/images/sponsors/huawei.png",
-      },
-      {
-        name: "CSDN",
-        image: "/images/sponsors/csdn.png",
-      },
-    ]}
-  /> -->
+
   <div
     class="section-wrap"
     id="intro"
@@ -74,34 +61,50 @@ import GosimBeijing from "images/homepage/gosim-beijing.png";
   >
     <Intro>
       <h1 class="h3 light split-words animate-read">
-        Paris, the City of Light, transforms into the City of Artificial
-        Brilliance this May. GOSIM AI 2025 invites visionaries, disruptors, and
-        pioneers to converge at <b
-          class="anchor-span"
-          data-anchor-target="#venue">Station F</b
-        >, a crucible of innovation—to shape the next frontier of AI.
+        Thank you for joining us at GOSIM AI Paris 2025! We hope to see you at the next
+        <a href="https://hangzhou2025.gosim.org"> GOSIM event in Hangzhou</a>,
+        on September 13-14, 2025.
       </h1>
+      <div class="row row-custom">
+        <div class="col">
+          <Button
+            text="GOSIM YouTube Channel"
+            link="https://www.youtube.com/@GOSIMFoundation/playlists"
+            class="btn primary btn-hover xl"
+          />
+        </div>
+      </div>
     </Intro>
+
+    <Fragment slot="image">
+      <YouTube id="y6xutXY5J6E" title="GOSIMI AI Paris 2025 Highlights" />
+      <style is:inline>
+        lite-youtube {
+          margin: 0 auto;
+          max-width: 80%;
+        }
+      </style>
+    </Fragment>
 
     <Statistics
       stats={[
         {
-          title: "500",
+          title: "970+",
           subtitle: "Attendees",
           image: Placeholder1,
           imageAlt: "",
           hasPlus: true,
         },
         {
-          title: "50",
+          title: "80+",
           subtitle: "Talks",
           imageAlt: "",
           image: Placeholder2,
           hasPlus: true,
         },
         {
-          title: "2",
-          subtitle: "Exhilarating days",
+          title: "28",
+          subtitle: "Attendee Countries",
           imageAlt: "",
           image: Placeholder3,
         },
@@ -150,7 +153,7 @@ import GosimBeijing from "images/homepage/gosim-beijing.png";
       link: "/schedule/",
     }}
   />
-<!--
+  <!--
   <Notify
     title="Try the GOSIM ticket lucky draw!"
     text="Join our Lucky Draw for a chance to unlock MASSIVE DISCOUNTS on your conference ticket!"
